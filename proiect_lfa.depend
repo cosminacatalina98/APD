@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1526896632 source:c:\users\cosmina\desktop\proiect_lfa\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+
+1527235790 source:c:\users\cosmina\desktop\facultate\proiect_lfa\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+
